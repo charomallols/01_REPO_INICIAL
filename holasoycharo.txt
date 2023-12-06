@@ -2,3 +2,5 @@ Hola, soy Charo
 ¿qué tal?
 Hola, soy Git
 Go!
+
+Vamos a aprender mucho
